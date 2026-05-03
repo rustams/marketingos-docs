@@ -13,9 +13,7 @@
         "group": "Начало работы",
         "pages": [
           "index",
-          "quick-start/index",
           "quick-start/01-what-is-marketingos",
-          "quick-start/02-what-appears-after-install",
           "quick-start/03-first-scenario"
         ],
         "icon": "circle-star"
