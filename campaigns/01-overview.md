@@ -62,7 +62,7 @@ title: "Кампании: обзор процесса"
 
 ## Связанные статьи
 
-- [Первый сценарий](../quick-start/03-first-scenario.md)
-- [Как создать кампанию](02-create-campaign.md)
-- [Заявки на контент](../requests/01-overview.md)
-- [Производство контента](../production/01-overview.md)
+- [Первый сценарий](/quick-start/03-first-scenario)
+- [Как создать кампанию](/campaigns/02-create-campaign)
+- [Заявки на контент](/requests/01-overview)
+- [Производство контента](/production/01-overview)
