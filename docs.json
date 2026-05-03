@@ -31,7 +31,8 @@
           "campaigns/02-create-campaign",
           "campaigns/03-control-campaign",
           "campaigns/04-close-campaign"
-        ]
+        ],
+        "icon": "megaphone"
       },
       {
         "group": "Заявки на контент",
@@ -39,7 +40,8 @@
           "requests/01-overview",
           "requests/02-create-request",
           "requests/03-review-request"
-        ]
+        ],
+        "icon": "clipboard-list"
       },
       {
         "group": "Производство контента",
@@ -48,7 +50,8 @@
           "production/02-start-production",
           "production/03-use-statuses",
           "production/04-fix-publication-results"
-        ]
+        ],
+        "icon": "workflow"
       },
       {
         "group": "Медиафайлы",
@@ -56,7 +59,8 @@
           "mediafiles/01-overview",
           "mediafiles/02-add-mediafile",
           "mediafiles/03-usage-rights"
-        ]
+        ],
+        "icon": "image"
       },
       {
         "group": "Аналитика",
@@ -64,7 +68,8 @@
           "analytics/01-overview",
           "analytics/02-manual-metrics",
           "analytics/03-campaign-summary"
-        ]
+        ],
+        "icon": "chart-column"
       },
       {
         "group": "Администрирование",
@@ -74,7 +79,8 @@
           "admin/03-reinstall",
           "admin/04-uninstall",
           "admin/05-troubleshooting"
-        ]
+        ],
+        "icon": "settings"
       },
       {
         "group": "Справка",
@@ -82,7 +88,8 @@
           "system-development",
           "faq",
           "glossary/index"
-        ]
+        ],
+        "icon": "circle-help"
       }
     ]
   },
