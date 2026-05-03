@@ -212,7 +212,7 @@ flowchart LR
 
 ## Связанные статьи
 
-- [Кампании](../campaigns/01-overview.md)
-- [Заявки на контент](../requests/01-overview.md)
-- [Производство контента](../production/01-overview.md)
-- [Медиафайлы](../mediafiles/01-overview.md)
+- [Кампании](/campaigns/01-overview)
+- [Заявки на контент](/requests/01-overview)
+- [Производство контента](/production/01-overview)
+- [Медиафайлы](/mediafiles/01-overview)
