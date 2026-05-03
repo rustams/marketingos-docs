@@ -66,7 +66,7 @@ title: "Медиафайлы: обзор процесса"
 
 ## Связанные статьи
 
-- [Как добавить медиафайл](02-add-mediafile.md)
-- [Как учитывать условия использования](03-usage-rights.md)
-- [Производство контента](../production/01-overview.md)
-- [Первый сценарий](../quick-start/03-first-scenario.md)
+- [Как добавить медиафайл](/mediafiles/02-add-mediafile)
+- [Как учитывать условия использования](/mediafiles/03-usage-rights)
+- [Производство контента](/production/01-overview)
+- [Первый сценарий](/quick-start/03-first-scenario)
