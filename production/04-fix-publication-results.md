@@ -68,6 +68,6 @@ title: "Как зафиксировать публикацию и результ
 
 ## Связанные статьи
 
-- [Аналитика](../analytics/01-overview.md)
-- [Как использовать статусы](03-use-statuses.md)
-- [Как завершить кампанию](../campaigns/04-close-campaign.md)
+- [Аналитика](/analytics/01-overview)
+- [Как использовать статусы](/production/03-use-statuses)
+- [Как завершить кампанию](/campaigns/04-close-campaign)
