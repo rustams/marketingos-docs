@@ -68,6 +68,6 @@ title: "Как проверить заявку перед производств
 
 ## Связанные статьи
 
-- [Как создать заявку на контент](02-create-request.md)
-- [Как запустить материал в производство](../production/02-start-production.md)
-- [Производство контента](../production/01-overview.md)
+- [Как создать заявку на контент](/requests/02-create-request)
+- [Как запустить материал в производство](/production/02-start-production)
+- [Производство контента](/production/01-overview)
