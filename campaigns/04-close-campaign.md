@@ -68,6 +68,6 @@ title: "Как завершить кампанию"
 
 ## Связанные статьи
 
-- [Как контролировать кампанию](03-control-campaign.md)
-- [Как фиксировать ручные показатели](../analytics/02-manual-metrics.md)
-- [Как подвести итог кампании](../analytics/03-campaign-summary.md)
+- [Как контролировать кампанию](/campaigns/03-control-campaign)
+- [Как фиксировать ручные показатели](/analytics/02-manual-metrics)
+- [Как подвести итог кампании](/analytics/03-campaign-summary)
