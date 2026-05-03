@@ -21,7 +21,6 @@
       {
         "group": "Кампании",
         "pages": [
-          "campaigns/index",
           "campaigns/01-overview",
           "campaigns/02-create-campaign",
           "campaigns/03-control-campaign",
