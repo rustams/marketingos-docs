@@ -38,7 +38,6 @@
       {
         "group": "Производство контента",
         "pages": [
-          "production/index",
           "production/01-overview",
           "production/02-start-production",
           "production/03-use-statuses",
