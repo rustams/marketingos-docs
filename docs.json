@@ -47,7 +47,6 @@
       {
         "group": "Медиафайлы",
         "pages": [
-          "mediafiles/index",
           "mediafiles/01-overview",
           "mediafiles/02-add-mediafile",
           "mediafiles/03-usage-rights"
