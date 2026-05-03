@@ -10,9 +10,15 @@
   "navigation": {
     "groups": [
       {
+        "group": "База знаний",
+        "pages": [
+          "index"
+        ],
+        "icon": "book-open"
+      },
+      {
         "group": "Начало работы",
         "pages": [
-          "index",
           "quick-start/01-what-is-marketingos",
           "quick-start/03-first-scenario"
         ],
