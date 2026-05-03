@@ -18,10 +18,10 @@ title: "Кампании"
 
 ## Статьи раздела
 
-1. [Кампании: обзор процесса](01-overview.md)
-2. [Как создать кампанию](02-create-campaign.md)
-3. [Как контролировать кампанию](03-control-campaign.md)
-4. [Как завершить кампанию](04-close-campaign.md)
+1. [Кампании: обзор процесса](/campaigns/01-overview)
+2. [Как создать кампанию](/campaigns/02-create-campaign)
+3. [Как контролировать кампанию](/campaigns/03-control-campaign)
+4. [Как завершить кампанию](/campaigns/04-close-campaign)
 
 ## Результат
 
