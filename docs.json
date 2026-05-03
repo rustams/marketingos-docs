@@ -51,7 +51,7 @@
           "production/03-use-statuses",
           "production/04-fix-publication-results"
         ],
-        "icon": "workflow"
+        "icon": "file-doc"
       },
       {
         "group": "Медиафайлы",
@@ -80,7 +80,7 @@
           "admin/04-uninstall",
           "admin/05-troubleshooting"
         ],
-        "icon": "settings"
+        "icon": "display-code"
       },
       {
         "group": "Справка",
@@ -89,7 +89,7 @@
           "faq",
           "glossary/index"
         ],
-        "icon": "circle-help"
+        "icon": "circle-question"
       }
     ]
   },
