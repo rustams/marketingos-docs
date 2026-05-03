@@ -84,15 +84,6 @@
           "faq",
           "glossary/index"
         ]
-      },
-      {
-        "group": "Шаблоны редакции",
-        "pages": [
-          "templates/editorial-policy",
-          "templates/article-template",
-          "templates/screenshot-checklist",
-          "templates/article-review-checklist"
-        ]
       }
     ]
   }
