@@ -70,6 +70,6 @@ title: "Как создать кампанию"
 
 ## Связанные статьи
 
-- [Кампании: обзор процесса](01-overview.md)
-- [Как создать заявку на контент](../requests/02-create-request.md)
-- [Как контролировать кампанию](03-control-campaign.md)
+- [Кампании: обзор процесса](/campaigns/01-overview)
+- [Как создать заявку на контент](/requests/02-create-request)
+- [Как контролировать кампанию](/campaigns/03-control-campaign)
