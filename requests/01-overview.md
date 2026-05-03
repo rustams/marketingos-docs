@@ -64,7 +64,7 @@ title: "Заявки на контент: обзор процесса"
 
 ## Связанные статьи
 
-- [Первый сценарий](../quick-start/03-first-scenario.md)
-- [Как создать заявку на контент](02-create-request.md)
-- [Как проверить заявку перед производством](03-review-request.md)
-- [Производство контента](../production/01-overview.md)
+- [Первый сценарий](/quick-start/03-first-scenario)
+- [Как создать заявку на контент](/requests/02-create-request)
+- [Как проверить заявку перед производством](/requests/03-review-request)
+- [Производство контента](/production/01-overview)
