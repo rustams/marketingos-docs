@@ -150,6 +150,6 @@ title: "Первоначальная настройка"
 
 ## Связанные статьи
 
-- [Установка приложения](01-installation.md)
-- [Первый сценарий: от кампании до результата](../quick-start/03-first-scenario.md)
-- [Решение проблем](05-troubleshooting.md)
+- [Установка приложения](/admin/01-installation)
+- [Первый сценарий: от кампании до результата](/quick-start/03-first-scenario)
+- [Решение проблем](/admin/05-troubleshooting)
