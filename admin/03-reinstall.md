@@ -72,7 +72,7 @@ title: "Повторная установка"
 
 ## Связанные статьи
 
-- [Установка приложения](01-installation.md)
-- [Первоначальная настройка](02-initial-setup.md)
-- [Решение проблем](05-troubleshooting.md)
-- [Удаление приложения](04-uninstall.md)
+- [Установка приложения](/admin/01-installation)
+- [Первоначальная настройка](/admin/02-initial-setup)
+- [Решение проблем](/admin/05-troubleshooting)
+- [Удаление приложения](/admin/04-uninstall)
