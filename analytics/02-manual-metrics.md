@@ -81,6 +81,6 @@ title: "Как фиксировать ручные показатели"
 
 ## Связанные статьи
 
-- [Аналитика: обзор процесса](01-overview.md)
-- [Как подвести итог кампании](03-campaign-summary.md)
-- [Как зафиксировать публикацию и результат](../production/04-fix-publication-results.md)
+- [Аналитика: обзор процесса](/analytics/01-overview)
+- [Как подвести итог кампании](/analytics/03-campaign-summary)
+- [Как зафиксировать публикацию и результат](/production/04-fix-publication-results)
