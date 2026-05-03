@@ -9,7 +9,7 @@
 ## Рекомендуемый порядок
 
 1. [Что такое MarketingOS](01-what-is-marketingos.md)
-2. [Что появится в Bitrix24 после установки](02-what-appears-after-install.md)
+2. [Что появится в Битрикс24 после установки](02-what-appears-after-install.md)
 3. [Первый сценарий: от кампании до результата](03-first-scenario.md)
 
 ## Для кого
