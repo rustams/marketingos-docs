@@ -30,19 +30,18 @@ https://app.rgdigital.ru/docs
 ## Структура
 
 ```text
-content/
-  index.md
-  system-development.md
-  quick-start/
-  campaigns/
-  requests/
-  production/
-  mediafiles/
-  analytics/
-  admin/
-  glossary/
-  templates/
-  faq.md
+index.md
+system-development.md
+quick-start/
+campaigns/
+requests/
+production/
+mediafiles/
+analytics/
+admin/
+glossary/
+templates/
+faq.md
 ```
 
 ## Статус
