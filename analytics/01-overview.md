@@ -57,7 +57,7 @@ title: "Аналитика: обзор процесса"
 
 ## Связанные статьи
 
-- [Первый сценарий](../quick-start/03-first-scenario.md)
-- [Как фиксировать ручные показатели](02-manual-metrics.md)
-- [Как подвести итог кампании](03-campaign-summary.md)
-- [Кампании](../campaigns/01-overview.md)
+- [Первый сценарий](/quick-start/03-first-scenario)
+- [Как фиксировать ручные показатели](/analytics/02-manual-metrics)
+- [Как подвести итог кампании](/analytics/03-campaign-summary)
+- [Кампании](/campaigns/01-overview)
