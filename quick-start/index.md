@@ -10,9 +10,9 @@ title: "Быстрый старт"
 
 ## Рекомендуемый порядок
 
-1. [Что такое MarketingOS](01-what-is-marketingos.md)
-2. [Что появится в Битрикс24 после установки](02-what-appears-after-install.md)
-3. [Первый сценарий: от кампании до результата](03-first-scenario.md)
+1. [Что такое MarketingOS](/quick-start/01-what-is-marketingos)
+2. [Что появится в Битрикс24 после установки](/quick-start/02-what-appears-after-install)
+3. [Первый сценарий: от кампании до результата](/quick-start/03-first-scenario)
 
 ## Для кого
 
