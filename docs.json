@@ -30,7 +30,6 @@
       {
         "group": "Заявки на контент",
         "pages": [
-          "requests/index",
           "requests/01-overview",
           "requests/02-create-request",
           "requests/03-review-request"
