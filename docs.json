@@ -55,7 +55,6 @@
       {
         "group": "Аналитика",
         "pages": [
-          "analytics/index",
           "analytics/01-overview",
           "analytics/02-manual-metrics",
           "analytics/03-campaign-summary"
