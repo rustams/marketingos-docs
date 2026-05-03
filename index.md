@@ -39,7 +39,7 @@ flowchart LR
 
 ## Куда идти дальше
 
-- Новый пользователь: [Первый сценарий](quick-start/03-first-scenario.md)
+- Новый пользователь: [Первый сценарий](/quick-start/03-first-scenario)
 - Руководитель маркетинга: [Кампании](campaigns/01-overview.md)
 - Участник контент-команды: [Производство контента](production/01-overview.md)
 - Администратор: [Первоначальная настройка](admin/02-initial-setup.md)
