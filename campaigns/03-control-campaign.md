@@ -80,7 +80,7 @@ title: "Как контролировать кампанию"
 
 ## Связанные статьи
 
-- [Кампании: обзор процесса](01-overview.md)
-- [Заявки на контент](../requests/01-overview.md)
-- [Производство контента](../production/01-overview.md)
-- [Аналитика](../analytics/01-overview.md)
+- [Кампании: обзор процесса](/campaigns/01-overview)
+- [Заявки на контент](/requests/01-overview)
+- [Производство контента](/production/01-overview)
+- [Аналитика](/analytics/01-overview)
