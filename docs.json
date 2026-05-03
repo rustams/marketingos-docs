@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "MarketingOS",
+  "name": "Marketing OS",
   "theme": "mint",
   "colors": {
     "primary": "#2563EB",
@@ -86,5 +86,6 @@
         ]
       }
     ]
-  }
+  },
+  "description": "База знаний по работе с системой Marketing OS"
 }
