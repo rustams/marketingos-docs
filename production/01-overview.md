@@ -77,7 +77,7 @@ title: "Производство контента: обзор процесса"
 
 ## Связанные статьи
 
-- [Заявки на контент](../requests/01-overview.md)
-- [Как запустить материал в производство](02-start-production.md)
-- [Как использовать статусы](03-use-statuses.md)
-- [Медиафайлы](../mediafiles/01-overview.md)
+- [Заявки на контент](/requests/01-overview)
+- [Как запустить материал в производство](/production/02-start-production)
+- [Как использовать статусы](/production/03-use-statuses)
+- [Медиафайлы](/mediafiles/01-overview)
